@@ -8,5 +8,6 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 
 ## Progress:
   * **OVERALL:** 20/132 (15.2%)
-  * Ancient Era (non-uniques), Civilians (pre-Industrial), Great People (pre-Industrial) - **DONE**
-  * The rest - **IN PROGRESS**
+  * Civilians (pre-Industrial), Great People (pre-Industrial): **DONE**
+  * Ancient Era (non-uniques): 5/6 (83.3%)
+  * The rest: **IN PROGRESS**
