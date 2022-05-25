@@ -29,4 +29,4 @@ Ancient Era (standard units)
 
 Barbarians (unique units)
 
-![Barbarians](https://user-images.githubusercontent.com/56904240/170345047-e0b4ea37-f1a3-4566-98df-e8df746722ab.png)
+![Barbarians](https://user-images.githubusercontent.com/56904240/170349300-353a7c1c-a0f8-4f7c-99e7-e08a00f70496.png)
