@@ -8,20 +8,25 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 
 ## Progress:
   * **OVERALL:** 22/132 (16.7%)
-  * Civilians (pre-Industrial), Great People (pre-Industrial): **DONE**
-  * Ancient Era (non-uniques): 5/6 (83.3%)
+  * Civilians (pre-Industrial Era): **DONE**
+  * Great People (pre-Industrial Era): **DONE**
+  * Ancient Era (standard units): **DONE**
+  * Barbarians (unique units): **DONE**
   * The rest: **IN PROGRESS**
 
 ## Screenshots:
-Civilian and Military (Ancient Era)  
+Civilians (pre-Industrial Era)
 
-<img width="550" alt="Military (Ancient)" src="https://user-images.githubusercontent.com/56904240/169752244-223eb8b0-ee6b-4ac8-8d38-53f364aa2ca5.png">
+![Civilians_Pre_Industrial](https://user-images.githubusercontent.com/56904240/170342194-dccb11e5-1354-410a-a2aa-f880695fcd4d.png)
 
+Great People (Pre-Industrial Era) 
 
-Great People (Pre-Industrial Era)  
+![Great_People_Pre_Industrial](https://user-images.githubusercontent.com/56904240/170342559-0e1f4edf-66bb-4aab-bafa-3955d13886d3.png)
 
-<img width="476" alt="Great People (Pre-Industrial)" src="https://user-images.githubusercontent.com/56904240/169752238-27087ac3-9e38-494f-adc6-6ae312efa8eb.png">
+Ancient Era (standard units)
 
-Boats (Ancient Era)  
+![Ancient_Standard](https://user-images.githubusercontent.com/56904240/170343656-e6327e08-8df8-4abc-a1e5-88ec057f8193.png)
 
-<img width="380" alt="Boats (Ancient)" src="https://user-images.githubusercontent.com/56904240/169752224-04ee58c8-64ed-4ff2-9753-c3128ab052df.png">
+Barbarians (unique units)
+
+![Barbarians](https://user-images.githubusercontent.com/56904240/170345047-e0b4ea37-f1a3-4566-98df-e8df746722ab.png)
