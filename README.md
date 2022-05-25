@@ -7,7 +7,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **OVERALL:** 21/132 (15.9%)
+  * **OVERALL:** 22/132 (16.7%)
   * Civilians (pre-Industrial), Great People (pre-Industrial): **DONE**
   * Ancient Era (non-uniques): 5/6 (83.3%)
   * The rest: **IN PROGRESS**
