@@ -1,32 +1,36 @@
 # AbsoluteUnits
 
-A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), designed for the HexaRealm tileset. 
+A set of large, detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), designed for the HexaRealm tileset. 
 
 ## To use: 
 1. Download and enable AbsoluteUnits as a permanent audiovisual mod
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **OVERALL:** 22/132 (16.7%)
+  * **OVERALL:** 26/133 (19.5%)
+  * Classical Era, Ancient Era (standard units): **DONE**
   * Civilians (pre-Industrial Era): **DONE**
   * Great People (pre-Industrial Era): **DONE**
-  * Ancient Era (standard units): **DONE**
   * Barbarians (unique units): **DONE**
   * The rest: **IN PROGRESS**
 
 ## Screenshots:
-Civilians (pre-Industrial Era)
+Classical Era (standard units)
 
-![Civilians_Pre_Industrial](https://user-images.githubusercontent.com/56904240/170342194-dccb11e5-1354-410a-a2aa-f880695fcd4d.png)
-
-Great People (Pre-Industrial Era) 
-
-![Great_People_Pre_Industrial](https://user-images.githubusercontent.com/56904240/170342559-0e1f4edf-66bb-4aab-bafa-3955d13886d3.png)
+<img alt="Classical_Standard" src="https://user-images.githubusercontent.com/56904240/171556233-18cc5c1d-b8df-40d8-a5e3-4fb3dc491241.png">
 
 Ancient Era (standard units)
 
-![Ancient_Standard](https://user-images.githubusercontent.com/56904240/170343656-e6327e08-8df8-4abc-a1e5-88ec057f8193.png)
+<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/171556202-bc5b13b1-1a8e-46cd-b063-1cc8f4506c0c.png">
+
+Civilians (pre-Industrial Era)
+
+<img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/171556181-b9cd5fd7-ebb5-4ac6-affc-c3220177dd11.png">
+
+Great People (pre-Industrial Era) 
+
+<img alt="Great_People_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/171556398-92e88ff5-539e-4c80-96e2-a7e18b09fa58.png">
 
 Barbarians (unique units)
 
-![Barbarians](https://user-images.githubusercontent.com/56904240/170349300-353a7c1c-a0f8-4f7c-99e7-e08a00f70496.png)
+<img alt="Barbarians" src="https://user-images.githubusercontent.com/56904240/171556417-93b9f58c-62c5-410a-aba4-4d204712b9e9.png">
