@@ -17,7 +17,7 @@ A set of large, detailed unit sprites for [Unciv](https://github.com/yairm210/Un
 ## Screenshots:
 Medieval Era (standard units)
 
-<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/173217162-1b4c7bbe-034e-4039-8047-c6dcb3f512c0.png">
+<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/174502989-9510508a-9e4f-4a37-98ca-dfbf0d7e591c.png">
 
 Classical Era (standard units)
 
@@ -25,16 +25,17 @@ Classical Era (standard units)
 
 Ancient Era (standard units)
 
-<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/171556202-bc5b13b1-1a8e-46cd-b063-1cc8f4506c0c.png">
+<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/174503002-14975e2c-6664-4922-b628-908908701a16.png">
 
 Civilians (pre-Industrial Era)
 
-<img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/171556181-b9cd5fd7-ebb5-4ac6-affc-c3220177dd11.png">
+<img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/174503009-3096c3f2-445a-4b0d-8cee-6531f6fc8bdc.png">
 
 Great People (pre-Industrial Era) 
 
-<img alt="Great_People_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/171556398-92e88ff5-539e-4c80-96e2-a7e18b09fa58.png">
+
+<img alt="Great_People_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/174503028-79811452-ab54-4278-950d-00c726c6de52.png">
 
 Barbarians (unique units)
 
-<img alt="Barbarians" src="https://user-images.githubusercontent.com/56904240/171556417-93b9f58c-62c5-410a-aba4-4d204712b9e9.png">
+<img alt="Barbarians" src="https://user-images.githubusercontent.com/56904240/174503053-3b0eba7b-d3bb-455a-9947-27cb757628d6.png">
