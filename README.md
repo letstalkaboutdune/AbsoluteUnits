@@ -7,6 +7,7 @@ A set of large, detailed unit sprites for [Unciv](https://github.com/yairm210/Un
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
+  * **BASE UNITS:** 33/70 (47.1%)
   * **OVERALL:** 38/122 (31.1%)
   * Renaissance, Medieval, Classical, Ancient Eras (standard units): **DONE**
   * Civilians (pre-Industrial Era): **DONE**
