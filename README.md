@@ -7,25 +7,29 @@ A set of large, detailed unit sprites for [Unciv](https://github.com/yairm210/Un
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **OVERALL:** 32/122 (26.2%)
-  * Medieval, Classical, Ancient Eras (standard units): **DONE**
+  * **OVERALL:** 38/122 (31.1%)
+  * Renaissance, Medieval, Classical, Ancient Eras (standard units): **DONE**
   * Civilians (pre-Industrial Era): **DONE**
   * Great People (pre-Industrial Era): **DONE**
   * Barbarians (unique units): **DONE**
   * The rest: **IN PROGRESS**
 
 ## Screenshots:
+Renaissance Era (standard units)
+
+<img alt="Renaissance_Standard" src="https://user-images.githubusercontent.com/56904240/176986560-b57af95c-818a-4cc0-8187-bc165ff9e133.png">
+
 Medieval Era (standard units)
 
-<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/174502989-9510508a-9e4f-4a37-98ca-dfbf0d7e591c.png">
+<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/176986182-83ba4004-dfa5-4856-a6e8-e68622734266.png">
 
 Classical Era (standard units)
 
-<img alt="Classical_Standard" src="https://user-images.githubusercontent.com/56904240/173217250-3f82ed6c-49e7-424a-9661-02baf5f4ad5d.png">
+<img alt="Classical_Standard" src="https://user-images.githubusercontent.com/56904240/176986314-90bba10a-2056-4a29-9e7b-31faf615950b.png">
 
 Ancient Era (standard units)
 
-<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/174503002-14975e2c-6664-4922-b628-908908701a16.png">
+<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/176986438-a186f9c0-fc4d-4e05-b57a-fab3c0b12563.png">
 
 Civilians (pre-Industrial Era)
 
