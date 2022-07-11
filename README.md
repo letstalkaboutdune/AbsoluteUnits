@@ -22,7 +22,7 @@ Renaissance Era (standard units)
 
 Medieval Era (standard units)
 
-<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/177057994-6dba78e6-6432-466f-8697-bbdf8396e740.png">
+<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/176986182-83ba4004-dfa5-4856-a6e8-e68622734266.png">
 
 Classical Era (standard units)
 
@@ -37,6 +37,7 @@ Civilians (pre-Industrial Era)
 <img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/174503009-3096c3f2-445a-4b0d-8cee-6531f6fc8bdc.png">
 
 Great People (pre-Industrial Era) 
+
 
 <img alt="Great_People_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/174503028-79811452-ab54-4278-950d-00c726c6de52.png">
 
