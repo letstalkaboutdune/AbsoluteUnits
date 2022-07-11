@@ -18,7 +18,7 @@ A set of large, detailed unit sprites for [Unciv](https://github.com/yairm210/Un
 ## Screenshots:
 Industrial Era (standard units)
 
-<img alt="Industrial_Standard" src="https://user-images.githubusercontent.com/56904240/178204621-bb9e314b-2322-4a46-8b96-ec9b8a1c8c01.png">
+<img alt="Industrial_Standard" src="https://user-images.githubusercontent.com/56904240/178366096-ab05b5d6-43eb-429f-81c7-10b879a3dc83.png">
 
 Renaissance Era (standard units)
 
