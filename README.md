@@ -7,8 +7,8 @@ A set of large, detailed unit sprites for [Unciv](https://github.com/yairm210/Un
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **BASE UNITS:** 38/70 (54.3%)
-  * **OVERALL:** 43/122 (35.2%)
+  * **BASE UNITS:** 44/70 (62.9%)
+  * **OVERALL:** 49/122 (40.2%)
   * Industrial, Renaissance, Medieval, Classical, Ancient Eras (standard units): **DONE**
   * Civilians (pre-Industrial Era): **DONE**
   * Great People (pre-Industrial Era): **DONE**
@@ -16,17 +16,25 @@ A set of large, detailed unit sprites for [Unciv](https://github.com/yairm210/Un
   * The rest: **IN PROGRESS**
 
 ## Screenshots:
+Information Era (standard units)
+
+<img alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/180128007-2f3b5880-1301-4823-9051-8be9099cf242.png">
+
+Modern Era (standard units)
+
+<img alt="Modern_Standard" src="https://user-images.githubusercontent.com/56904240/180128057-816945e8-588d-4519-9f79-16206e9eda90.png">
+
 Industrial Era (standard units)
 
-<img alt="Industrial_Standard" src="https://user-images.githubusercontent.com/56904240/178366096-ab05b5d6-43eb-429f-81c7-10b879a3dc83.png">
+<img alt="Industrial_Standard" src="https://user-images.githubusercontent.com/56904240/180128079-00bf54d2-bd58-4756-bb3f-b20835e244e9.png">
 
 Renaissance Era (standard units)
 
-<img alt="Renaissance_Standard" src="https://user-images.githubusercontent.com/56904240/178201541-86481da3-0ee8-42ac-afa0-a21df1ea5960.png">
+<img alt="Renaissance_Standard" src="https://user-images.githubusercontent.com/56904240/180128123-5e48792f-3975-4644-b0c3-98672fd10a88.png">
 
 Medieval Era (standard units)
 
-<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/178202128-3d6376fd-1077-4e14-a6b1-f34c96c9a1c7.png">
+<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/180128171-03db4e3e-83a2-4d44-b5f1-ccbd6a56cbb3.png">
 
 Classical Era (standard units)
 
@@ -34,11 +42,11 @@ Classical Era (standard units)
 
 Ancient Era (standard units)
 
-<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/178203208-037da566-4a93-4942-9738-6643808cff06.png">
+<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/180128243-811a63a7-a95c-44c7-97c4-cc03bfbda382.png">
 
 Civilians (pre-Industrial Era)
 
-<img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/178203657-5e0eba08-328f-4696-93f7-691402229bab.png">
+<img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/180128288-777fdcce-c8ef-424c-9e2e-e91f7b92590c.png">
 
 Great People (pre-Industrial Era)
 
@@ -46,4 +54,4 @@ Great People (pre-Industrial Era)
 
 Barbarians (unique units)
 
-<img alt="Barbarians" src="https://user-images.githubusercontent.com/56904240/174503053-3b0eba7b-d3bb-455a-9947-27cb757628d6.png">
+<img alt="Barbarians" src="https://user-images.githubusercontent.com/56904240/180128347-2a8e6def-a61c-4b64-91db-e1d2c651527a.png">
