@@ -22,7 +22,7 @@ Information Era (standard units)
 
 Modern Era (standard units)
 
-<img alt="Modern_Standard" src="https://user-images.githubusercontent.com/56904240/180128057-816945e8-588d-4519-9f79-16206e9eda90.png">
+<img alt="Modern_Standard" src="https://user-images.githubusercontent.com/56904240/180367448-84389250-2173-44d9-8eb6-473aacf82f0c.png">
 
 Industrial Era (standard units)
 
