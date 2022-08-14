@@ -7,9 +7,9 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **BASE UNITS:** 48/72 (66.7%)
-  * **OVERALL:** 53/124 (42.7%)
-  * Modern, Industrial, Renaissance, Medieval, Classical, Ancient Eras (standard units): **DONE**
+  * **BASE UNITS:** 55/72 (76.4%)
+  * **OVERALL:** 60/124 (48.4%)
+  * Atomic, Modern, Industrial, Renaissance, Medieval, Classical, Ancient Eras (standard units): **DONE**
   * Civilians (pre-Industrial Era): **DONE**
   * Great People (pre-Industrial Era): **DONE**
   * Barbarians (unique units): **DONE**
@@ -18,40 +18,44 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 ## Screenshots:
 Information Era (standard units)
 
-<img alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/180128007-2f3b5880-1301-4823-9051-8be9099cf242.png">
+<img alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/184523357-9d48c0c5-e0f1-4001-8b37-ffe15eb77173.png">
+
+Atomic Era (standard units)
+
+<img alt="Atomic_Standard" src="https://user-images.githubusercontent.com/56904240/184523366-8e203ab0-b30e-4ed3-ac5a-72ab05aa786f.png">
 
 Modern Era (standard units)
 
-<img alt="Modern_Standard" src="https://user-images.githubusercontent.com/56904240/182668445-fa1822f5-9150-495d-babc-ba20dece92a5.png">
+<img alt="Modern_Standard" src="https://user-images.githubusercontent.com/56904240/184523370-2167751a-58a0-4ec5-8d11-2696371e8868.png">
 
 Industrial Era (standard units)
 
-<img alt="Industrial_Standard" src="https://user-images.githubusercontent.com/56904240/182668966-86d007d5-fe37-4e66-9c7f-7486dce93929.png">
+<img alt="Industrial_Standard" src="https://user-images.githubusercontent.com/56904240/184523376-b9d056d6-d65e-476d-abfc-500889b7646a.png">
 
 Renaissance Era (standard units)
 
-<img alt="Renaissance_Standard" src="https://user-images.githubusercontent.com/56904240/182669585-a576d98d-2eed-4aaa-9867-d8d22ba63010.png">
+<img alt="Renaissance_Standard" src="https://user-images.githubusercontent.com/56904240/184523380-81f5f4ce-1257-46a4-b0f0-b27d9b4985fc.png">
 
 Medieval Era (standard units)
 
-<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/182670444-6300ff2a-0cae-45e3-b102-d68734d95f18.png">
+<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/184523390-07605df8-d94d-4d08-bcf6-c42545ec24bf.png">
 
 Classical Era (standard units)
 
-<img alt="Classical_Standard" src="https://user-images.githubusercontent.com/56904240/182670726-29c17941-b627-4c80-86a8-de8192eccf50.png">
+<img alt="Classical_Standard" src="https://user-images.githubusercontent.com/56904240/184523392-21827b8f-a1e3-4af9-b05e-15370c0a06b5.png">
 
 Ancient Era (standard units)
 
-<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/182671416-61d10394-91ac-4f1f-a797-f0a5718b23a2.png">
+<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/184523396-27337a81-bdce-40bc-bf49-e570639f96ef.png">
 
 Civilians (pre-Industrial Era)
 
-<img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/182671794-8661668b-00d6-4d13-9127-8a78c8da56d6.png">
+<img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/184523406-0d93a0e3-d78c-4700-82af-4afd4b980410.png">
 
 Great People (pre-Industrial Era)
 
-<img alt="Great_People_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/182672061-6a53ed65-0727-4cb9-82c9-42003c5316c7.png">
+<img alt="Great_People_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/184523411-3eb1346c-6271-483c-857e-a1ee4cd931b8.png">
 
 Barbarians (unique units)
 
-<img alt="Barbarians" src="https://user-images.githubusercontent.com/56904240/182672835-81804610-2ced-4664-99e7-1d1e585ab818.png">
+<img alt="Barbarians" src="https://user-images.githubusercontent.com/56904240/184523415-25c5763e-f714-4f7e-8bf8-7fd2c0ec8858.png">
