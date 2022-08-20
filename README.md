@@ -7,9 +7,9 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **BASE UNITS:** 55/72 (76.4%)
-  * **OVERALL:** 60/124 (48.4%)
-  * Atomic, Modern, Industrial, Renaissance, Medieval, Classical, Ancient Eras (standard units): **DONE**
+  * **BASE UNITS:** 59/72 (81.9%)
+  * **OVERALL:** 64/124 (51.6%)
+  * Standard military units: **DONE**
   * Civilians (pre-Industrial Era): **DONE**
   * Great People (pre-Industrial Era): **DONE**
   * Barbarians (unique units): **DONE**
@@ -18,7 +18,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 ## Screenshots:
 Information Era (standard units)
 
-<img alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/184523357-9d48c0c5-e0f1-4001-8b37-ffe15eb77173.png">
+<img alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/185767371-67e392b1-8995-466e-8076-c352f2c0a179.png">
 
 Atomic Era (standard units)
 
