@@ -7,20 +7,16 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **BASE UNITS:** 63/72 (87.5%)
-  * **OVERALL:** 68/124 (54.8%)
-  * Spaceship parts: **DONE**
+  * **BASE UNITS:** 65/72 (90.3%)
+  * **OVERALL:** 70/124 (56.5%)
   * Standard military units: **DONE**
-  * Civilians (pre-Industrial Era): **DONE**
+  * Spaceship parts: **DONE**
+  * Civilians: **DONE**
   * Great People (pre-Industrial Era): **DONE**
   * Barbarians (unique units): **DONE**
   * The rest: **IN PROGRESS**
 
 ## Screenshots:
-Spaceship parts
-
-<img alt="Spaceship" src="https://user-images.githubusercontent.com/56904240/186285692-54830873-0cf4-4dda-a649-c70676c3756f.png">
-
 Information Era (standard units)
 
 <img alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/185767371-67e392b1-8995-466e-8076-c352f2c0a179.png">
@@ -51,7 +47,15 @@ Classical Era (standard units)
 
 Ancient Era (standard units)
 
-<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/184523396-27337a81-bdce-40bc-bf49-e570639f96ef.png">
+<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/186787641-96b20fc5-14e2-464b-bfbe-839b4af4b902.png">
+
+Spaceship parts
+
+<img alt="Spaceship" src="https://user-images.githubusercontent.com/56904240/186285692-54830873-0cf4-4dda-a649-c70676c3756f.png">
+
+Civilians (post-Industrial Era)
+
+<img alt="Civilians_Post_Industrial" src="https://user-images.githubusercontent.com/56904240/186787425-44d28c0e-6a68-4e3e-a905-8390f0806acf.png">
 
 Civilians (pre-Industrial Era)
 
