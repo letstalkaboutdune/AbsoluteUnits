@@ -7,14 +7,14 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **BASE UNITS:** 70/73 (95.9%)
-  * **OVERALL:** 75/127 (59.1%)
+  * **OVERALL:** 78/127 (61.4%)
+  * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
   * Civilians: **DONE**
   * Great People: **DONE**
   * Barbarians (unique units): **DONE**
-  * The rest: **IN PROGRESS**
+  * Unique units: **IN PROGRESS**
 
 ## Screenshots:
 Information Era (standard units)
@@ -35,7 +35,7 @@ Industrial Era (standard units)
 
 Renaissance Era (standard units)
 
-<img alt="Renaissance_Standard" src="https://user-images.githubusercontent.com/56904240/184523380-81f5f4ce-1257-46a4-b0f0-b27d9b4985fc.png">
+![Renaissance_Standard](https://user-images.githubusercontent.com/56904240/191861334-7ca3c20c-5a02-47ef-872b-fd60f440dcc9.png)
 
 Medieval Era (standard units)
 
@@ -48,6 +48,10 @@ Classical Era (standard units)
 Ancient Era (standard units)
 
 <img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/186787641-96b20fc5-14e2-464b-bfbe-839b4af4b902.png">
+
+Embarked Units (standard units)
+
+![Embarked_Standard](https://user-images.githubusercontent.com/56904240/191860961-0e914b0e-9051-4b96-9751-1a6e89543c05.png)
 
 Spaceship parts
 
