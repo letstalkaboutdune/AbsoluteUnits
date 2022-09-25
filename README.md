@@ -7,7 +7,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 2. Select HexaRealm under Options > Display > Tileset
 
 ## Progress:
-  * **OVERALL:** 78/127 (61.4%)
+  * **OVERALL:** 81/128 (63.3%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -52,6 +52,10 @@ Ancient Era (standard units)
 Embarked Units (standard units)
 
 ![Embarked_Standard](https://user-images.githubusercontent.com/56904240/191860961-0e914b0e-9051-4b96-9751-1a6e89543c05.png)
+
+Embarked Units (unique units)
+
+<img alt="Embarked_Unique" src="https://user-images.githubusercontent.com/56904240/192128641-91d10194-5d3f-4900-857f-61088e56c4e3.png">
 
 Spaceship parts
 
