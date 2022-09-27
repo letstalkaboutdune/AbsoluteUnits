@@ -1,6 +1,6 @@
 # AbsoluteUnits
 
-A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), designed for the HexaRealm tileset. 
+A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), designed for the HexaRealm tileset (also works with FantasyHex). 
 
 ## To use: 
 1. Download and enable AbsoluteUnits as a permanent audiovisual mod
