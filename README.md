@@ -7,7 +7,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), d
 2. Select HexaRealm (or FantasyHex) under Options > Display > Tileset
 
 ## Progress:
-  * **OVERALL:** 86/128 (67.2%)
+  * **OVERALL:** 90/128 (70.3%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -48,6 +48,10 @@ Classical Era (standard units)
 Ancient Era (standard units)
 
 <img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/186787641-96b20fc5-14e2-464b-bfbe-839b4af4b902.png">
+
+Spearman (unique units)
+
+<img alt="Unique_Spearman" src="https://user-images.githubusercontent.com/56904240/202627654-b5c6d782-c379-477f-863a-c5e49cd8621b.png">
 
 Archer (unique units)
 
