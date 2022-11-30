@@ -1,13 +1,12 @@
 # AbsoluteUnits
 
-A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), designed for the HexaRealm tileset (also works with FantasyHex). 
+A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv). 
 
 ## To use: 
-1. Download and enable AbsoluteUnits as a permanent audiovisual mod
-2. Select HexaRealm (or FantasyHex) under Options > Display > Tileset
+1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 93/128 (72.7%)
+  * **OVERALL:** 95/128 (72.7%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -47,11 +46,15 @@ Classical Era (standard units)
 
 Ancient Era (standard units)
 
-<img alt="Ancient_Standard" src="https://user-images.githubusercontent.com/56904240/186787641-96b20fc5-14e2-464b-bfbe-839b4af4b902.png">
+![Ancient_Standard](https://user-images.githubusercontent.com/56904240/204678755-17c49859-57e3-4bc8-8acd-a0380c95186c.png)
 
 Elephants (unique units)
 
-<img alt="Unique_Elephants" src="https://user-images.githubusercontent.com/56904240/204055511-2ba0fafc-4a0f-4cff-8ce9-e8996f2e212a.png">
+![Unique_Elephants](https://user-images.githubusercontent.com/56904240/204678847-fc48e3ad-c52e-4c4b-8b9b-5bcc230f67d3.png)
+
+Chariot Archer (unique units)
+
+![Unique_Chariot_Archer](https://user-images.githubusercontent.com/56904240/204679529-53886779-1532-4973-a04e-d3f884f9ebac.png)
 
 Spearman (unique units)
 
