@@ -6,7 +6,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 95/128 (72.7%)
+  * **OVERALL:** 96/128 (75%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -47,6 +47,10 @@ Classical Era (standard units)
 Ancient Era (standard units)
 
 ![Ancient_Standard](https://user-images.githubusercontent.com/56904240/204678755-17c49859-57e3-4bc8-8acd-a0380c95186c.png)
+
+Mongolia (unique units)
+
+![Unique_Mongols](https://user-images.githubusercontent.com/56904240/208531117-5c18bfb6-1504-428e-99c9-e716562574c7.png)
 
 Elephants (unique units)
 
@@ -94,7 +98,7 @@ Great People (post-Industrial Era)
 
 Great People (pre-Industrial Era)
 
-<img alt="Great_People_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/184523411-3eb1346c-6271-483c-857e-a1ee4cd931b8.png">
+![Great_People_Pre_Industrial](https://user-images.githubusercontent.com/56904240/208531275-ac6bb006-22cf-4b9b-ac1c-31a8b661fa89.png)
 
 Barbarians (unique units)
 
