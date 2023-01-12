@@ -6,7 +6,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 98/128 (76.6%)
+  * **OVERALL:** 100/128 (78.1%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -47,6 +47,10 @@ Classical Era (standard units)
 Ancient Era (standard units)
 
 ![Ancient_Standard](https://user-images.githubusercontent.com/56904240/204678755-17c49859-57e3-4bc8-8acd-a0380c95186c.png)
+
+Rome (unique units)
+
+![Unique_Romans](https://user-images.githubusercontent.com/56904240/212156028-10887e2c-9681-485f-8461-4a827bc85cd4.png)
 
 Triremes (unique units)
 
