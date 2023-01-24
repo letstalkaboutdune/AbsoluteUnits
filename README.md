@@ -6,7 +6,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 100/128 (78.1%)
+  * **OVERALL:** 101/129 (78.3%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -36,57 +36,39 @@ Renaissance Era (standard units)
 
 ![Renaissance_Standard](https://user-images.githubusercontent.com/56904240/191861334-7ca3c20c-5a02-47ef-872b-fd60f440dcc9.png)
 
+Medieval Era (unique units)
+
+<img width="500" alt="Medieval_Unique" src="https://user-images.githubusercontent.com/56904240/214228775-722bc01c-cc32-4283-a038-e358b904cc72.png">
+
 Medieval Era (standard units)
 
 <img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/184523390-07605df8-d94d-4d08-bcf6-c42545ec24bf.png">
 
+Classical Era (unique units)
+ 
+<img width="1080" alt="Classical_Unique" src="https://user-images.githubusercontent.com/56904240/214228739-cab212a0-0999-40c4-8b90-85d2a2c514e4.png">
+
 Classical Era (standard units)
 
-<img alt="Classical_Standard" src="https://user-images.githubusercontent.com/56904240/184523392-21827b8f-a1e3-4af9-b05e-15370c0a06b5.png">
+<img width="504" alt="Classical_Standard" src="https://user-images.githubusercontent.com/56904240/214228512-ca1c99e2-e3ea-4ca3-b08a-7b5de888eafa.png">
+
+Ancient Era (unique units)
+
+<img width="1372" alt="Ancient_Unique_1" src="https://user-images.githubusercontent.com/56904240/214224519-0e2f8d7b-f2d7-44d2-ae1f-ceb364801ef0.png">
+<img width="1322" alt="Ancient_Unique_2" src="https://user-images.githubusercontent.com/56904240/214225855-6f699bc6-57bb-4e5d-83b4-a9889829cc21.png">
+<img width="1428" alt="Ancient_Unique_3" src="https://user-images.githubusercontent.com/56904240/214227723-b3c29ede-8099-4f8f-9be6-8e1951a916fb.png">
 
 Ancient Era (standard units)
 
 ![Ancient_Standard](https://user-images.githubusercontent.com/56904240/204678755-17c49859-57e3-4bc8-8acd-a0380c95186c.png)
 
-Rome (unique units)
+Embarked Units (unique units)
 
-![Unique_Romans](https://user-images.githubusercontent.com/56904240/212156028-10887e2c-9681-485f-8461-4a827bc85cd4.png)
-
-Triremes (unique units)
-
-![Unique_Trireme](https://user-images.githubusercontent.com/56904240/211657995-19d6b652-e995-4565-9948-eda402901719.png)
-
-Mongolia (unique units)
-
-![Unique_Mongols](https://user-images.githubusercontent.com/56904240/208531117-5c18bfb6-1504-428e-99c9-e716562574c7.png)
-
-Elephants (unique units)
-
-![Unique_Elephants](https://user-images.githubusercontent.com/56904240/204678847-fc48e3ad-c52e-4c4b-8b9b-5bcc230f67d3.png)
-
-Chariot Archer (unique units)
-
-![Unique_Chariot_Archer](https://user-images.githubusercontent.com/56904240/204679529-53886779-1532-4973-a04e-d3f884f9ebac.png)
-
-Spearman (unique units)
-
-<img alt="Unique_Spearman" src="https://user-images.githubusercontent.com/56904240/202627654-b5c6d782-c379-477f-863a-c5e49cd8621b.png">
-
-Archer (unique units)
-
-![Unique_Archer](https://user-images.githubusercontent.com/56904240/201001805-99cd1c13-f025-43d5-b87e-de483db9f9be.png)
-
-Warrior (unique units)
-
-![Warrior_Unique](https://user-images.githubusercontent.com/56904240/192626030-80b54667-1058-4c72-9ff9-f05856df5c26.png)
+![Embarked_Unique](https://user-images.githubusercontent.com/56904240/192625966-cb5c5cfd-d72a-4d40-817d-524f129cedfd.png)
 
 Embarked Units (standard units)
 
 ![Embarked_Standard](https://user-images.githubusercontent.com/56904240/191860961-0e914b0e-9051-4b96-9751-1a6e89543c05.png)
-
-Embarked Units (unique units)
-
-![Embarked_Unique](https://user-images.githubusercontent.com/56904240/192625966-cb5c5cfd-d72a-4d40-817d-524f129cedfd.png)
 
 Spaceship parts
 
