@@ -6,7 +6,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 103/129 (79.8%)
+  * **OVERALL:** 105/130 (80.8%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -18,7 +18,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 ## Screenshots:
 Information Era (standard units)
 
-<img alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/185767371-67e392b1-8995-466e-8076-c352f2c0a179.png">
+![Information_Standard](https://user-images.githubusercontent.com/56904240/218197340-9f35cbd6-0913-4794-8ddc-91fc0bf9902a.png)
 
 Atomic Era (standard units)
 
@@ -26,50 +26,45 @@ Atomic Era (standard units)
 
 Modern Era (standard units)
 
-<img alt="Modern_Standard" src="https://user-images.githubusercontent.com/56904240/184523370-2167751a-58a0-4ec5-8d11-2696371e8868.png">
+![Modern_Standard](https://user-images.githubusercontent.com/56904240/218197489-bd158a3a-1e04-4cab-b2c9-ad427a4483eb.png)
 
 Industrial Era (standard units)
 
-<img alt="Industrial_Standard" src="https://user-images.githubusercontent.com/56904240/184523376-b9d056d6-d65e-476d-abfc-500889b7646a.png">
+![Industrial_Standard](https://user-images.githubusercontent.com/56904240/218197561-302d74e6-f454-4899-b368-764a69587d27.png)
 
 Renaissance Era (standard units)
-
-![Renaissance_Standard](https://user-images.githubusercontent.com/56904240/191861334-7ca3c20c-5a02-47ef-872b-fd60f440dcc9.png)
+![Renaissance_Standard](https://user-images.githubusercontent.com/56904240/218197644-a5e326fb-327d-41c4-a14e-b9d8815d2a4b.png)
 
 Medieval Era (unique units)
 
-<img width="500" alt="Medieval_Unique" src="https://user-images.githubusercontent.com/56904240/214228775-722bc01c-cc32-4283-a038-e358b904cc72.png">
+![Medieval_Unique](https://user-images.githubusercontent.com/56904240/218197007-fe1f8c54-364f-46a2-9942-9a2f21881cc2.png)
 
 Medieval Era (standard units)
 
-<img alt="Medieval_Standard" src="https://user-images.githubusercontent.com/56904240/184523390-07605df8-d94d-4d08-bcf6-c42545ec24bf.png">
+![Medieval_Standard](https://user-images.githubusercontent.com/56904240/218201357-69f37a69-4b6f-4fef-a7a2-267a9e4d9343.png)
 
 Classical Era (unique units)
-
-![Classical_Unique_1](https://user-images.githubusercontent.com/56904240/216679533-1215ac37-eaf2-466b-8949-f0543068a20f.png)
-![Classical_Unique_2](https://user-images.githubusercontent.com/56904240/216679558-cad12237-02f1-422e-beba-c264c88c6156.png)
+![Classical_Unique](https://user-images.githubusercontent.com/56904240/218198047-08068436-f56a-4ee0-a3ab-5c3cdd58e09b.png)
 
 Classical Era (standard units)
 
-![Classical_Standard](https://user-images.githubusercontent.com/56904240/216680361-ec33e0be-1e68-44ec-9b84-6866aa385d84.png)
+![Classical_Standard](https://user-images.githubusercontent.com/56904240/218197175-636301c7-08d4-46d4-ae37-54d619c5cd39.png)
 
 Ancient Era (unique units)
-
-<img width="1372" alt="Ancient_Unique_1" src="https://user-images.githubusercontent.com/56904240/214224519-0e2f8d7b-f2d7-44d2-ae1f-ceb364801ef0.png">
-<img width="1322" alt="Ancient_Unique_2" src="https://user-images.githubusercontent.com/56904240/214225855-6f699bc6-57bb-4e5d-83b4-a9889829cc21.png">
-<img width="1428" alt="Ancient_Unique_3" src="https://user-images.githubusercontent.com/56904240/214227723-b3c29ede-8099-4f8f-9be6-8e1951a916fb.png">
+![Ancient_Unique_1](https://user-images.githubusercontent.com/56904240/218198344-5df751a4-12cd-4774-89de-0a8e7b006770.png)
+![Ancient_Unique_2](https://user-images.githubusercontent.com/56904240/218198367-4bb7d676-2954-4e6a-8b97-e2b26a78b29d.png)
+![Ancient_Unique_3](https://user-images.githubusercontent.com/56904240/218198397-abb1865a-fa82-49a4-b970-77caed46f3ee.png)
 
 Ancient Era (standard units)
-
-![Ancient_Standard](https://user-images.githubusercontent.com/56904240/204678755-17c49859-57e3-4bc8-8acd-a0380c95186c.png)
+![Ancient_Standard](https://user-images.githubusercontent.com/56904240/218198810-edc521fe-eb44-4115-a547-43836b6f49a1.png)
 
 Embarked Units (unique units)
 
-![Embarked_Unique](https://user-images.githubusercontent.com/56904240/192625966-cb5c5cfd-d72a-4d40-817d-524f129cedfd.png)
+![Embarked_Unique](https://user-images.githubusercontent.com/56904240/218198831-ddd3989d-75ab-4259-b3bc-2cdf3fa79b36.png)
 
 Embarked Units (standard units)
 
-![Embarked_Standard](https://user-images.githubusercontent.com/56904240/191860961-0e914b0e-9051-4b96-9751-1a6e89543c05.png)
+![Embarked_Standard](https://user-images.githubusercontent.com/56904240/218198854-ddb4b107-237c-4b75-9fdc-fa6fd2c04a94.png)
 
 Spaceship parts
 
@@ -77,11 +72,11 @@ Spaceship parts
 
 Civilians (post-Industrial Era)
 
-<img alt="Civilians_Post_Industrial" src="https://user-images.githubusercontent.com/56904240/186787425-44d28c0e-6a68-4e3e-a905-8390f0806acf.png">
+![Civilians_Post_Industrial](https://user-images.githubusercontent.com/56904240/218199028-c9df04d9-26f7-49d6-b865-de75b2710dbf.png)
 
 Civilians (pre-Industrial Era)
 
-<img alt="Civilians_Pre_Industrial" src="https://user-images.githubusercontent.com/56904240/184523406-0d93a0e3-d78c-4700-82af-4afd4b980410.png">
+![Civilians_Pre_Industrial](https://user-images.githubusercontent.com/56904240/218199045-6e04db82-39a2-4b37-857f-8e87d6a8a35e.png)
 
 Great People (post-Industrial Era)
 
@@ -93,4 +88,4 @@ Great People (pre-Industrial Era)
 
 Barbarians (unique units)
 
-<img alt="Barbarians" src="https://user-images.githubusercontent.com/56904240/184523415-25c5763e-f714-4f7e-8bf8-7fd2c0ec8858.png">
+![Barbarians](https://user-images.githubusercontent.com/56904240/218199064-73b103e8-8325-4740-a8b1-cf3db2b75e33.png)
