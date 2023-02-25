@@ -6,7 +6,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 105/130 (80.8%)
+  * **OVERALL:** 107/131 (81.7%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -37,11 +37,11 @@ Renaissance Era (standard units)
 
 Medieval Era (unique units)
 
-![Medieval_Unique](https://user-images.githubusercontent.com/56904240/218197007-fe1f8c54-364f-46a2-9942-9a2f21881cc2.png)
+![Medieval_Unique](https://user-images.githubusercontent.com/56904240/221380272-09a5682b-4747-418d-bd43-a6e7a2c43d33.png)
 
 Medieval Era (standard units)
 
-![Medieval_Standard](https://user-images.githubusercontent.com/56904240/218201357-69f37a69-4b6f-4fef-a7a2-267a9e4d9343.png)
+![Medieval_Standard](https://user-images.githubusercontent.com/56904240/221380421-fdefab55-be19-4d94-9108-43ad7f6589ac.png)
 
 Classical Era (unique units)
 ![Classical_Unique](https://user-images.githubusercontent.com/56904240/218198047-08068436-f56a-4ee0-a3ab-5c3cdd58e09b.png)
