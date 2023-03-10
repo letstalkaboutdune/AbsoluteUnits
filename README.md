@@ -6,7 +6,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 107/131 (81.7%)
+  * **OVERALL:** 109/131 (83.2%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -18,15 +18,15 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 ## Screenshots:
 Information Era (standard units)
 
-![Information_Standard](https://user-images.githubusercontent.com/56904240/218197340-9f35cbd6-0913-4794-8ddc-91fc0bf9902a.png)
+<img width="698" alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/224233310-d8a6a2c5-950e-416f-8f8b-d9de1f7ea7d0.png">
 
 Atomic Era (standard units)
 
-<img alt="Atomic_Standard" src="https://user-images.githubusercontent.com/56904240/184523366-8e203ab0-b30e-4ed3-ac5a-72ab05aa786f.png">
+<img width="859" alt="Atomic_Standard" src="https://user-images.githubusercontent.com/56904240/224232919-453a0b23-9874-4f17-a92f-f5b1e50e0290.png">
 
 Modern Era (standard units)
 
-![Modern_Standard](https://user-images.githubusercontent.com/56904240/218197489-bd158a3a-1e04-4cab-b2c9-ad427a4483eb.png)
+<img width="908" alt="Modern_Standard" src="https://user-images.githubusercontent.com/56904240/224232623-28184324-d5b2-4a9e-9e96-be5494cd4c51.png">
 
 Industrial Era (standard units)
 
@@ -72,11 +72,11 @@ Embarked Units (standard units)
 
 Spaceship parts
 
-<img alt="Spaceship" src="https://user-images.githubusercontent.com/56904240/186285692-54830873-0cf4-4dda-a649-c70676c3756f.png">
+<img width="654" alt="Spaceship" src="https://user-images.githubusercontent.com/56904240/224231872-1664b294-7587-467f-aedc-13fa07f1a092.png">
 
 Civilians (post-Industrial Era)
 
-![Civilians_Post_Industrial](https://user-images.githubusercontent.com/56904240/218199028-c9df04d9-26f7-49d6-b865-de75b2710dbf.png)
+<img width="714" alt="Civilians_Post_Industrial" src="https://user-images.githubusercontent.com/56904240/224231567-d26fece3-00f9-4eae-bf7e-9f9b04bc0111.png">
 
 Civilians (pre-Industrial Era)
 
@@ -84,7 +84,7 @@ Civilians (pre-Industrial Era)
 
 Great People (post-Industrial Era)
 
-<img alt="Great_People_Post_Industrial" src="https://user-images.githubusercontent.com/56904240/190888762-0e162f54-0a91-45c7-8009-be525beeb4d0.png">
+<img width="718" alt="Great_People_Post_Industrial" src="https://user-images.githubusercontent.com/56904240/224230933-ff42113e-19dc-4dc9-97bd-59e666951977.png">
 
 Great People (pre-Industrial Era)
 
