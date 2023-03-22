@@ -6,7 +6,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv).
 1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 109/131 (83.2%)
+  * **OVERALL:** 111/131 (84.7%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -38,11 +38,11 @@ Renaissance Era (standard units)
 
 Medieval Era (unique units)
 
-![Medieval_Unique](https://user-images.githubusercontent.com/56904240/221380272-09a5682b-4747-418d-bd43-a6e7a2c43d33.png)
+![Medieval_Unique](https://user-images.githubusercontent.com/56904240/226811630-06981d6b-1348-49c8-842d-78181229e5a8.png)
 
 Medieval Era (standard units)
 
-![Medieval_Standard](https://user-images.githubusercontent.com/56904240/221380421-fdefab55-be19-4d94-9108-43ad7f6589ac.png)
+![Medieval_Standard](https://user-images.githubusercontent.com/56904240/226812284-d2a600cd-c8fa-4669-a263-3e66d7dd768a.png)
 
 Classical Era (unique units)
 
@@ -76,7 +76,7 @@ Spaceship parts
 
 Civilians (post-Industrial Era)
 
-<img width="714" alt="Civilians_Post_Industrial" src="https://user-images.githubusercontent.com/56904240/224231567-d26fece3-00f9-4eae-bf7e-9f9b04bc0111.png">
+<img width="958" alt="Civilians_Post_Industrial" src="https://user-images.githubusercontent.com/56904240/226812648-c8da63b8-764c-4928-9399-c4699973f9b1.png">
 
 Civilians (pre-Industrial Era)
 
