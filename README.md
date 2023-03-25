@@ -1,6 +1,6 @@
 # AbsoluteUnits
 
-A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv). 
+A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), made with PyxelEdit and Photoshop.
 
 ## To use: 
 1. Select AbsoluteUnits under Options > Display > Unitset
