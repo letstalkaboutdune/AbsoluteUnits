@@ -6,7 +6,7 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), m
 1. Select AbsoluteUnits under Options > Display > Unitset
 
 ## Progress:
-  * **OVERALL:** 125/132 (94.7%)
+  * **OVERALL:** 129/132 (97.7%)
   * **BASE UNITS: DONE**
   * Standard military units: **DONE**
   * Spaceship parts: **DONE**
@@ -19,6 +19,10 @@ A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), m
 Information Era (standard units)
 
 <img width="698" alt="Information_Standard" src="https://user-images.githubusercontent.com/56904240/224233310-d8a6a2c5-950e-416f-8f8b-d9de1f7ea7d0.png">
+
+Atomic-to-Industrial Era (unique units)
+
+![Post-Industrial_Unique](https://user-images.githubusercontent.com/56904240/235529650-9d993f7c-8428-4736-b0b6-f707b9b795cf.png)
 
 Atomic Era (standard units)
 
