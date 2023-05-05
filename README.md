@@ -1,19 +1,9 @@
 # AbsoluteUnits
 
-A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), made with PyxelEdit and Photoshop.
+A set of detailed unit sprites for [Unciv](https://github.com/yairm210/Unciv), made with PyxelEdit, Photoshop and Asesprite.
 
 ## To use: 
 1. Select AbsoluteUnits under Options > Display > Unitset
-
-## Progress:
-  * **OVERALL:** 129/132 (97.7%)
-  * **BASE UNITS: DONE**
-  * Standard military units: **DONE**
-  * Spaceship parts: **DONE**
-  * Civilians: **DONE**
-  * Great People: **DONE**
-  * Barbarians (unique units): **DONE**
-  * Unique units: **IN PROGRESS**
 
 ## Screenshots:
 Information Era (standard units)
@@ -22,7 +12,7 @@ Information Era (standard units)
 
 Atomic-to-Industrial Era (unique units)
 
-![Post-Industrial_Unique](https://user-images.githubusercontent.com/56904240/235529650-9d993f7c-8428-4736-b0b6-f707b9b795cf.png)
+![Post-Industrial_Unique](https://user-images.githubusercontent.com/56904240/236575317-cd0c8922-f7a3-4915-9d36-52bfaac64762.png)
 
 Atomic Era (standard units)
 
